@@ -20,5 +20,8 @@
   "homepage": "https://github.com/erenerdo/trip-planner-part1#readme",
   "devDependencies": {
     "webpack": "^3.6.0"
+  },
+  "dependencies": {
+    "mapbox-gl": "^0.40.1"
   }
 }
